@@ -13,3 +13,13 @@ p{
     font-family: agency fb;
     text-align: center;
     
+}
+form{
+    text-align: center;
+    padding: 20px 10px;
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 800;
+}
