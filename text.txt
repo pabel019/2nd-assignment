@@ -1,0 +1,2 @@
+Websites also rely on database technology.
+The database runs on a server, and most websites typically use some form of relational database management system (RDBMS).
