@@ -8,3 +8,9 @@
     text-align: center;
     font-weight: 400;
 }
+p{
+    font-size: 25;
+    font-family: agency fb;
+    text-align: center;
+    border: 1px solid #000;
+}
